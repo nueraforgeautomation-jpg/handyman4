@@ -1,0 +1,6 @@
+{
+  "name": "One Stop Shop Handyman Services",
+  "description": "Comprehensive handyman, home repair, installation, and maintenance platform with instant online scheduling and estimate calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
